@@ -1,0 +1,1 @@
+// checkbox.tsx - placeholder content
