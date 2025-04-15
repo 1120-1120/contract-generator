@@ -1,1 +1,0 @@
-// textarea.tsx - placeholder content
